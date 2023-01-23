@@ -1,6 +1,8 @@
 # BreenSetup
 Test map for hammer ++
 
+Compile the file yourself aslo you need half life 2 installed. Other than that you can figure it out.
+
 (Specs)
 INTEL CORE I7-12700F 12-CORE
 
